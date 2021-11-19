@@ -1,1 +1,1 @@
-worker: Payton fortnite.py
+worker: node fortnite.py
