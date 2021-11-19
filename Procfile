@@ -1,1 +1,1 @@
-worker: payton fortnite.py
+worker: bash start
